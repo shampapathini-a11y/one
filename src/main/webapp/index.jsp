@@ -632,7 +632,7 @@
                     </div>
 
                     <div style="display:flex;align-items:center;gap:12px;">
-                        <div class="price">$999 <span class="old-price" style="font-size:16px">$1,199</span></div>
+                        <div class="price">$899 <span class="old-price" style="font-size:16px">$1,199</span></div>
                         <div class="deal-discount" style="background:#ff4757;color:white;padding:6px 10px;border-radius:8px;font-weight:700">-17%</div>
                     </div>
 
